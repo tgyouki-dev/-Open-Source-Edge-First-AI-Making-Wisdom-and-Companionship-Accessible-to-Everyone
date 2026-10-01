@@ -83,6 +83,6 @@ MIT License. See LICENSE file.
   title={Minimal Cognitive Kernel v0.0},
   author={Chen, Xiaoqi},
   year={2026},
-  url={https://github.com/tgyouki-dev/-Open-Source-Edge-First-AI-Making-Wisdom-and-Companionship-Accessible-to-Everyone}
+  url={https://github.com/tgyouki-dev/minimal-cognitive-kernel}
 }
 ```
