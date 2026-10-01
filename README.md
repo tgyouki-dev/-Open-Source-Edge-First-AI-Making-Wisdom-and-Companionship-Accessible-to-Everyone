@@ -5,6 +5,10 @@
 
 ---
 
+![Minimal Cognitive Kernel v0.0](assets/minimal_cognitive_kernel_v0.0.png)
+
+---
+
 ## Start from Nothing. Learn from the World. Grow by Experience.
 
 The smallest possible beginning for a self-evolving intelligence.
@@ -12,6 +16,8 @@ The smallest possible beginning for a self-evolving intelligence.
 ---
 
 ## The Core Loop
+
+OBSERVE -> INFER -> ACT -> LEARN
 
 **Observe** — Perceive the world. Any modality. Camera, audio, file, sensor, human input.  
 **Infer** — Form hypotheses. Use available knowledge. Ask when uncertain.  
@@ -59,3 +65,24 @@ It is a design philosophy and an experimental starting point:
 ---
 
 ## The Kernel Stays Minimal. The Environment Evolves.
+
+Core -> Experience -> Environment -> Context -> Decision -> Action -> Experience
+
+---
+
+## License
+
+MIT License. See LICENSE file.
+
+---
+
+## Citation
+
+```bibtex
+@software{chen2026minimalcognitivekernel,
+  title={Minimal Cognitive Kernel v0.0},
+  author={Chen, Xiaoqi},
+  year={2026},
+  url={https://github.com/tgyouki-dev/-Open-Source-Edge-First-AI-Making-Wisdom-and-Companionship-Accessible-to-Everyone}
+}
+```
